@@ -33,3 +33,5 @@
  	<a href="https://www.twitch.tv/Syver_On" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:sylviocd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+ ![Snake animation](https://github.com/SyverOn/SyverOn/blob/output/github-contribution-grid-snake.svg)
