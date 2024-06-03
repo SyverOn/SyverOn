@@ -8,7 +8,7 @@
 
 - 🔭 Sou um zé que estuda :/
 - 🌱 tô estudando java XD
-- 📫 Fala comgio: sylviocd@gmail.com
+- 📫 Fala comigo: sylviocd@gmail.com
 
 <br>
 <div>
